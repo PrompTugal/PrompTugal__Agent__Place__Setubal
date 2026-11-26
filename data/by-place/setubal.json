@@ -470,18 +470,40 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.setubal@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Câmara de Setúbal aprova orçamento de 280 milhões de euros para 2027",
-   "url": "https://revelaarrabida.pt/2026/11/25/camara-de-setubal-aprova-orcamento-de-280-milhoes-para-2027/",
-   "source": "Revela Arrábida",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:32:27Z",
+   "title": "Setúbal aprovou orçamento de 280 milhões de euros com abstenção do PS e do Chega",
+   "url": "https://semmais.pt/2026/11/26/setubal-aprovou-orcamento-de-280-milhoes-de-euros-com-abstencao-do-ps-e-do-chega/",
+   "source": "Semmais (S+)",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:15:39Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Setúbal aprovou orçamento de 280 milhões de euros com abstenção do PS e do Chega",
+    "url": "https://semmais.pt/2026/11/26/setubal-aprovou-orcamento-de-280-milhoes-de-euros-com-abstencao-do-ps-e-do-chega/",
+    "published": "2026-11-26T10:35Z",
+    "source": "Semmais (S+)",
+    "source_site": "https://semmais.pt/",
+    "feed": "https://semmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:39Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Orçamento da Câmara de Sines sobe para 46,2M€ com aposta na mobilidade",
+    "url": "https://osetubalense.com/uncategorized/orcamento-da-camara-de-sines-sobe-para-462me-com-aposta-na-mobilidade/",
+    "published": "2026-11-26T10:16Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T11:15:34Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "116 anos de Vitória, uma paixão que atravessa gerações",
     "url": "https://osetubalense.com/opiniao/116-anos-de-vitoria-uma-paixao-que-atravessa-geracoes/",
@@ -489,7 +511,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
+    "read_at": "2026-11-26T11:15:34Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -500,7 +522,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
+    "read_at": "2026-11-26T11:15:34Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -511,7 +533,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
+    "read_at": "2026-11-26T11:15:34Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -522,19 +544,8 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
+    "read_at": "2026-11-26T11:15:34Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Câmara de Setúbal aprova orçamento de 280 milhões de euros para 2027",
-    "url": "https://revelaarrabida.pt/2026/11/25/camara-de-setubal-aprova-orcamento-de-280-milhoes-para-2027/",
-    "published": "2026-11-25T17:20Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -544,7 +555,18 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "read_at": "2026-11-26T11:15:39Z",
+    "mentions_place": false,
+    "date": "2026-11-25"
+   },
+   {
+    "title": "Cliente do Lidl Azeitão ganha cheque oferta de casa",
+    "url": "https://setubalmais.pt/cliente-do-lidl-azeitao-ganha-cheque-oferta-de-casa/?utm_source=rss&utm_medium=rss&utm_campaign=cliente-do-lidl-azeitao-ganha-cheque-oferta-de-casa",
+    "published": "2026-11-25T17:00Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -555,7 +577,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
+    "read_at": "2026-11-26T11:15:34Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -566,7 +588,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "read_at": "2026-11-26T11:15:39Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -577,19 +599,8 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "read_at": "2026-11-26T11:15:39Z",
     "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Homem detido por furto em interior de residência",
-    "url": "https://osetubalense.com/local/almada/homem-detido-por-furto-em-interior-de-residencia/",
-    "published": "2026-11-25T15:28Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T02:32:23Z",
-    "mentions_place": false,
     "date": "2026-11-25"
    },
    {
@@ -599,7 +610,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "read_at": "2026-11-26T11:15:39Z",
     "mentions_place": true,
     "date": "2026-11-25"
    },
@@ -610,75 +621,64 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "read_at": "2026-11-26T11:15:39Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
    {
-    "title": "EA Live Évora regressa em 2027 com Sérgio Godinho, Gisela João e Ornatos Violeta",
-    "url": "https://semmais.pt/2026/11/25/ea-live-evora-regressa-em-2027-com-sergio-godinho-gisela-joao-e-ornatos-violeta/",
-    "published": "2026-11-25T10:32Z",
-    "source": "Semmais (S+)",
-    "source_site": "https://semmais.pt/",
-    "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T02:32:30Z",
+    "title": "Vencedores do Orçamento Participativo do Município de Odemira",
+    "url": "https://setubalmais.pt/vencedores-do-orcamento-participativo-do-municipio-de-odemira/?utm_source=rss&utm_medium=rss&utm_campaign=vencedores-do-orcamento-participativo-do-municipio-de-odemira",
+    "published": "2026-11-23T09:12Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-23"
    },
    {
-    "title": "Setúbal põe à prova plataforma flutuante pioneira de energia eólica no mar",
-    "url": "https://revelaarrabida.pt/2026/11/25/setubal-poe-a-prova-plataforma-flutuante-pioneira-de-energia-eolica-no-mar/",
-    "published": "2026-11-25T09:35Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
+    "title": "Combate ao declínio das competências básicas, à rápida mudança digital e à escassez de professores",
+    "url": "https://setubalmais.pt/combate-ao-declinio-das-competencias-basicas-a-rapida-mudanca-digital-e-a-escassez-de-professores/?utm_source=rss&utm_medium=rss&utm_campaign=combate-ao-declinio-das-competencias-basicas-a-rapida-mudanca-digital-e-a-escassez-de-professores",
+    "published": "2026-11-18T20:16Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
+    "mentions_place": false,
+    "date": "2026-11-18"
+   },
+   {
+    "title": "Núcleo de Setúbal da associação de treinadores de futebol inaugura primeira sede em 40 anos de vida",
+    "url": "https://setubalmais.pt/nucleo-de-setubal-da-associacao-de-treinadores-de-futebol-inaugura-primeira-sede-em-40-anos-de-vida/?utm_source=rss&utm_medium=rss&utm_campaign=nucleo-de-setubal-da-associacao-de-treinadores-de-futebol-inaugura-primeira-sede-em-40-anos-de-vida",
+    "published": "2026-11-16T15:48Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
     "mentions_place": true,
-    "date": "2026-11-25"
+    "date": "2026-11-16"
    },
    {
-    "title": "Inovação digital e Inteligência Artificial (IA) são destaque no próximo Fórum Turismo Palmela",
-    "url": "https://revelaarrabida.pt/2026/11/25/inovacao-digital-e-inteligencia-artificial-ia-sao-destaque-no-proximo-forum-turismo-palmela/",
-    "published": "2026-11-25T08:47Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
+    "title": "Movimento Iustitia denuncia à Entidade para a Transparência ausência de declaração da Presidente da Câmara de Palmela",
+    "url": "https://setubalmais.pt/movimento-iustitia-denuncia-a-entidade-para-a-transparencia-ausencia-de-declaracao-da-presidente-da-camara-de-palmela/?utm_source=rss&utm_medium=rss&utm_campaign=movimento-iustitia-denuncia-a-entidade-para-a-transparencia-ausencia-de-declaracao-da-presidente-da-camara-de-palmela",
+    "published": "2026-11-13T19:40Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-13"
    },
    {
-    "title": "Conselho Municipal de Educação de Setúbal recebe novos representantes",
-    "url": "https://revelaarrabida.pt/2026/11/24/conselho-municipal-de-educacao-de-setubal-recebe-novos-representantes/",
-    "published": "2026-11-24T11:48Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
+    "title": "Proteção Civil de Setúbal regista 90 ocorrências até final da manhã",
+    "url": "https://setubalmais.pt/protecao-civil-de-setubal-regista-90-ocorrencias-ate-final-da-manha/?utm_source=rss&utm_medium=rss&utm_campaign=protecao-civil-de-setubal-regista-90-ocorrencias-ate-final-da-manha",
+    "published": "2026-11-11T14:38Z",
+    "source": "Setúbal Mais",
+    "source_site": "https://setubalmais.pt/",
+    "feed": "https://setubalmais.pt/feed/",
+    "read_at": "2026-11-26T11:15:49Z",
     "mentions_place": true,
-    "date": "2026-11-24"
-   },
-   {
-    "title": "Natal em Palmela traz mercados, gastronomia e programas para toda a família",
-    "url": "https://revelaarrabida.pt/2026/11/24/natal-em-palmela-traz-mercados-gastronomia-e-programas-para-toda-a-familia/",
-    "published": "2026-11-24T10:42Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
-   },
-   {
-    "title": "Sesimbra vai acolher encontro sobre voluntariado local",
-    "url": "https://revelaarrabida.pt/2026/11/24/sesimbra-vai-acolher-encontro-sobre-voluntariado-local/",
-    "published": "2026-11-24T10:38Z",
-    "source": "Revela Arrábida",
-    "source_site": "https://revelaarrabida.pt/",
-    "feed": "https://revelaarrabida.pt/feed/",
-    "read_at": "2026-11-26T02:32:27Z",
-    "mentions_place": false,
-    "date": "2026-11-24"
+    "date": "2026-11-11"
    },
    {
     "title": "Nuno Maia da AISET falou sobre a Península de Setúbal e o seu futuro",
@@ -687,7 +687,7 @@
     "source": "Rádio Azul",
     "source_site": "https://radioazul.pt/",
     "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T02:32:25Z",
+    "read_at": "2026-11-26T11:15:36Z",
     "mentions_place": true,
     "date": "2026-07-15"
    },
@@ -698,7 +698,7 @@
     "source": "Rádio Azul",
     "source_site": "https://radioazul.pt/",
     "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T02:32:25Z",
+    "read_at": "2026-11-26T11:15:36Z",
     "mentions_place": true,
     "date": "2026-07-15"
    },
@@ -709,7 +709,7 @@
     "source": "Rádio Azul",
     "source_site": "https://radioazul.pt/",
     "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T02:32:25Z",
+    "read_at": "2026-11-26T11:15:36Z",
     "mentions_place": false,
     "date": "2026-06-30"
    },
@@ -720,9 +720,31 @@
     "source": "Rádio Azul",
     "source_site": "https://radioazul.pt/",
     "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T02:32:25Z",
+    "read_at": "2026-11-26T11:15:36Z",
     "mentions_place": false,
     "date": "2026-06-18"
+   },
+   {
+    "title": "Orçamento Municipal 2027 destina-se maioritariamente a investimento público",
+    "url": "https://setubalinformacao.sapo.pt/noticias/orcamento-municipal-2027-destina-se-maioritariamente-a-investimento-publico",
+    "published": null,
+    "source": "Setúbal Informação",
+    "source_site": "https://setubalinformacao.sapo.pt/",
+    "feed": "https://setubalinformacao.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:46Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Direção da AF Setúbal decide adiamento da agenda de jogos",
+    "url": "https://setubalinformacao.sapo.pt/noticias/direcao-da-af-setubal-decide-adiamento-da-agenda-de-jogos",
+    "published": null,
+    "source": "Setúbal Informação",
+    "source_site": "https://setubalinformacao.sapo.pt/",
+    "feed": "https://setubalinformacao.sapo.pt/feed/",
+    "read_at": "2026-11-26T11:15:46Z",
+    "mentions_place": true,
+    "date": null
    },
    {
     "title": "ESE/IPS promove Aula Aberta subordinada ao tema “Fadiga e Recuperação no Futebol”",
@@ -731,7 +753,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
+    "read_at": "2026-11-26T11:15:46Z",
     "mentions_place": false,
     "date": null
    },
@@ -742,7 +764,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
+    "read_at": "2026-11-26T11:15:46Z",
     "mentions_place": true,
     "date": null
    },
@@ -753,7 +775,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
+    "read_at": "2026-11-26T11:15:46Z",
     "mentions_place": false,
     "date": null
    },
@@ -764,29 +786,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
-    "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "AF Setúbal homenageia equipa sénior da ACRUT Zambujalense no futebol de praia",
-    "url": "https://setubalinformacao.sapo.pt/noticias/af-setubal-homenageia-equipa-senior-da-acrut-zambujalense-no-futebol-de-praia",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
-    "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "Árvore de grande porte caiu no Jardim do Monte Belo",
-    "url": "https://setubalinformacao.sapo.pt/noticias/arvore-de-grande-porte-caiu-no-jardim-do-monte-belo",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:37Z",
+    "read_at": "2026-11-26T11:15:46Z",
     "mentions_place": false,
     "date": null
    }
