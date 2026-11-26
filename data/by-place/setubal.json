@@ -470,18 +470,117 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22Z",
+  "read_at": "2026-11-26T18:38Z",
   "by": "place.setubal@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Setúbal aprovou orçamento de 280 milhões de euros com abstenção do PS e do Chega",
-   "url": "https://semmais.pt/2026/11/26/setubal-aprovou-orcamento-de-280-milhoes-de-euros-com-abstencao-do-ps-e-do-chega/",
+   "title": "Etermar testa em Setúbal capacidade para fabricar plataformas eólicas flutuantes",
+   "url": "https://semmais.pt/2026/11/26/etermar-testa-em-setubal-capacidade-para-fabricar-plataformas-eolicas-flutuantes/",
    "source": "Semmais (S+)",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T11:15:39Z",
+   "read_at": "2026-11-26T18:31:02Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Vereadores do PS querem garantir concretização das medidas previstas no orçamento municipal",
+    "url": "https://osetubalense.com/local/setubal/vereadores-do-ps-querem-garantir-concretizacao-das-medidas-previstas-no-orcamento-municipal/",
+    "published": "2026-11-26T17:07Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Orçamento Municipal de Alcácer do Sal chumbado com votos da CDU e do vereador independente",
+    "url": "https://osetubalense.com/local/alcacer-do-sal/orcamento-municipal-de-alcacer-do-sal-chumbado-com-votos-da-cdu-e-do-vereador-independente/",
+    "published": "2026-11-26T16:14Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "CDU prevê que a dívida do município aumente 21 milhões de euros em dois anos",
+    "url": "https://osetubalense.com/local/setubal/cdu-preve-que-a-divida-do-municipio-aumente-21-milhoes-de-euros-em-dois-anos/",
+    "published": "2026-11-26T15:57Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ópera Graffiti leva ao palco as mensagens escondidas nos muros das cidades",
+    "url": "https://semmais.pt/2026/11/26/opera-graffiti-leva-ao-palco-as-mensagens-escondidas-nos-muros-das-cidades/",
+    "published": "2026-11-26T15:49Z",
+    "source": "Semmais (S+)",
+    "source_site": "https://semmais.pt/",
+    "feed": "https://semmais.pt/feed/",
+    "read_at": "2026-11-26T18:31:02Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Etermar testa em Setúbal capacidade para fabricar plataformas eólicas flutuantes",
+    "url": "https://semmais.pt/2026/11/26/etermar-testa-em-setubal-capacidade-para-fabricar-plataformas-eolicas-flutuantes/",
+    "published": "2026-11-26T15:46Z",
+    "source": "Semmais (S+)",
+    "source_site": "https://semmais.pt/",
+    "feed": "https://semmais.pt/feed/",
+    "read_at": "2026-11-26T18:31:02Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Chega destaca orçamento “equilibrado” mas defende redução da carga fiscal",
+    "url": "https://osetubalense.com/local/setubal/chega-destaca-orcamento-equilibrado-mas-defende-reducao-da-carga-fiscal/",
+    "published": "2026-11-26T15:13Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Reservas de sangue O+ em “alerta vermelho” no Hospital São Bernardo",
+    "url": "https://osetubalense.com/local/setubal/reservas-de-sangue-o-em-alerta-vermelho-no-hospital-sao-bernardo/",
+    "published": "2026-11-26T14:29Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Campanha solidária “Ardina Por Um Dia” arranca dia 11 no Montijo para apoiar os bombeiros",
+    "url": "https://osetubalense.com/ultimas/campanha-solidaria-ardina-por-um-dia-arranca-dia-11-no-montijo-para-apoiar-os-bombeiros/",
+    "published": "2026-11-26T13:13Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-26T18:30:57Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Barreiro aposta na identidade operária para ser Capital da Cultura",
+    "url": "https://semmais.pt/2026/11/26/barreiro-aposta-na-identidade-operaria-para-ser-capital-da-cultura/",
+    "published": "2026-11-26T12:57Z",
+    "source": "Semmais (S+)",
+    "source_site": "https://semmais.pt/",
+    "feed": "https://semmais.pt/feed/",
+    "read_at": "2026-11-26T18:31:02Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Setúbal aprovou orçamento de 280 milhões de euros com abstenção do PS e do Chega",
     "url": "https://semmais.pt/2026/11/26/setubal-aprovou-orcamento-de-280-milhoes-de-euros-com-abstencao-do-ps-e-do-chega/",
@@ -489,64 +588,9 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
+    "read_at": "2026-11-26T18:31:02Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Orçamento da Câmara de Sines sobe para 46,2M€ com aposta na mobilidade",
-    "url": "https://osetubalense.com/uncategorized/orcamento-da-camara-de-sines-sobe-para-462me-com-aposta-na-mobilidade/",
-    "published": "2026-11-26T10:16Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "116 anos de Vitória, uma paixão que atravessa gerações",
-    "url": "https://osetubalense.com/opiniao/116-anos-de-vitoria-uma-paixao-que-atravessa-geracoes/",
-    "published": "2026-11-25T20:06Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Chega reconhece empenho na resposta à depressão Charles",
-    "url": "https://osetubalense.com/local/setubal/chega-reconhece-empenho-na-resposta-a-depressao-charles/",
-    "published": "2026-11-25T18:39Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Auditório Municipal de Azeitão recebe programa de aulas e espetáculos",
-    "url": "https://osetubalense.com/local/setubal/auditorio-municipal-de-azeitao-recebe-programa-de-aulas-e-espetaculos/",
-    "published": "2026-11-25T18:34Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Grávida com hemorragia é transportada para urgência lotada em São Bernardo",
-    "url": "https://osetubalense.com/local/setubal/gravida-com-hemorragia-e-transportada-para-urgencia-lotada-em-sao-bernardo/",
-    "published": "2026-11-25T18:04Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
    },
    {
     "title": "Orçamento da Câmara de Sines sobe para 46,2 milhões com aposta na mobilidade",
@@ -555,7 +599,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
+    "read_at": "2026-11-26T18:31:02Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -566,19 +610,8 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Homem detido por agressões e ameaças à ex-companheira em Setúbal",
-    "url": "https://osetubalense.com/local/setubal/homem-detido-por-agressoes-e-ameacas-a-ex-companheira-em-setubal/",
-    "published": "2026-11-25T16:13Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T11:15:34Z",
-    "mentions_place": true,
     "date": "2026-11-25"
    },
    {
@@ -588,40 +621,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Homem detido por agressões e ameaças à ex-companheira em Setúbal",
-    "url": "https://semmais.pt/2026/11/25/homem-detido-por-agressoes-e-ameacas-a-ex-companheira-em-setubal/",
-    "published": "2026-11-25T16:01Z",
-    "source": "Semmais (S+)",
-    "source_site": "https://semmais.pt/",
-    "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Associação de Futebol de Setúbal suspende jogos após cenas de violência",
-    "url": "https://semmais.pt/2026/11/25/associacao-de-futebol-de-setubal-suspende-jogos-apos-cenas-de-violencia/",
-    "published": "2026-11-25T14:40Z",
-    "source": "Semmais (S+)",
-    "source_site": "https://semmais.pt/",
-    "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Autarcas de Alvito e Viana do Alentejo querem obras na EN257 devido a acidentes",
-    "url": "https://semmais.pt/2026/11/25/autarcas-de-alvito-e-viana-do-alentejo-querem-obras-na-en257-devido-a-acidentes/",
-    "published": "2026-11-25T12:01Z",
-    "source": "Semmais (S+)",
-    "source_site": "https://semmais.pt/",
-    "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:39Z",
+    "read_at": "2026-11-26T18:31:02Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -632,7 +632,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -643,7 +643,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": false,
     "date": "2026-11-18"
    },
@@ -654,7 +654,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": true,
     "date": "2026-11-16"
    },
@@ -665,7 +665,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": false,
     "date": "2026-11-13"
    },
@@ -676,53 +676,9 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T11:15:49Z",
+    "read_at": "2026-11-26T18:31:13Z",
     "mentions_place": true,
     "date": "2026-11-11"
-   },
-   {
-    "title": "Nuno Maia da AISET falou sobre a Península de Setúbal e o seu futuro",
-    "url": "https://radioazul.pt/nuno-maia-da-aiset-falou-sobre-a-peninsula-de-setubal-e-o-seu-futuro/",
-    "published": "2026-07-15T23:21Z",
-    "source": "Rádio Azul",
-    "source_site": "https://radioazul.pt/",
-    "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T11:15:36Z",
-    "mentions_place": true,
-    "date": "2026-07-15"
-   },
-   {
-    "title": "Pedro Dominguinhos afirma que fundos europeus são importantes para desenvolvimento da região de Setúbal",
-    "url": "https://radioazul.pt/pedro-dominguinhos-afirma-que-fundos-europeus-sao-importantes-para-desenvolvimento-da-regiao-de-setubal/",
-    "published": "2026-07-15T22:26Z",
-    "source": "Rádio Azul",
-    "source_site": "https://radioazul.pt/",
-    "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T11:15:36Z",
-    "mentions_place": true,
-    "date": "2026-07-15"
-   },
-   {
-    "title": "Vitor Caldeirinha da administração dos Portos esteve em entrevista",
-    "url": "https://radioazul.pt/vitor-caldeirinha-da-administracao-dos-portos-esteve-em-entrevista/",
-    "published": "2026-06-30T14:13Z",
-    "source": "Rádio Azul",
-    "source_site": "https://radioazul.pt/",
-    "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T11:15:36Z",
-    "mentions_place": false,
-    "date": "2026-06-30"
-   },
-   {
-    "title": "Paulo Ribeiro da administração interna foi o 1º convidado de “Momentos”",
-    "url": "https://radioazul.pt/paulo-ribeiro-da-administracao-interna-foi-o-1o-convidado-de-momentos/",
-    "published": "2026-06-18T13:25Z",
-    "source": "Rádio Azul",
-    "source_site": "https://radioazul.pt/",
-    "feed": "https://radioazul.pt/feed/",
-    "read_at": "2026-11-26T11:15:36Z",
-    "mentions_place": false,
-    "date": "2026-06-18"
    },
    {
     "title": "Orçamento Municipal 2027 destina-se maioritariamente a investimento público",
@@ -731,7 +687,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -742,7 +698,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": true,
     "date": null
    },
@@ -753,7 +709,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -764,7 +720,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": true,
     "date": null
    },
@@ -775,7 +731,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -786,7 +742,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T11:15:46Z",
+    "read_at": "2026-11-26T18:31:09Z",
     "mentions_place": false,
     "date": null
    }
