@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.setubal@PrompTugal.dinis",
  "mandate": "PrompTugal.news Setúbal: AI and technology in Setúbal, a port and industry city whose centre of gravity is the Port of Setúbal, the Politécnico and the Mitrena industrial complex, and what reaches Setúbal from Portugal, Europe and the world. Independent. Every fact sourced.",
  "gravity": {
@@ -470,18 +470,51 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.setubal@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Etermar testa em Setúbal capacidade para fabricar plataformas eólicas flutuantes",
-   "url": "https://semmais.pt/2026/11/26/etermar-testa-em-setubal-capacidade-para-fabricar-plataformas-eolicas-flutuantes/",
-   "source": "Semmais (S+)",
+   "title": "Há um Natal de Andersen à espera dos setubalenses nos Paços do Concelho",
+   "url": "https://revelaarrabida.pt/2026/11/26/ha-um-natal-de-andersen-a-espera-dos-setubalenses-nos-pacos-do-concelho/",
+   "source": "Revela Arrábida",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:31:02Z",
+   "read_at": "2026-11-27T07:29:29Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Alunos da Básica e Secundária Ordem de Sant’Iago ajudam a arborizar a escola",
+    "url": "https://osetubalense.com/local/setubal/alunos-da-basica-e-secundaria-ordem-de-santiago-ajudam-a-arborizar-a-escola/",
+    "published": "2026-11-26T18:40Z",
+    "source": "O Setubalense",
+    "source_site": "https://osetubalense.com/",
+    "feed": "https://osetubalense.com/feed/",
+    "read_at": "2026-11-27T07:29:25Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Há um Natal de Andersen à espera dos setubalenses nos Paços do Concelho",
+    "url": "https://revelaarrabida.pt/2026/11/26/ha-um-natal-de-andersen-a-espera-dos-setubalenses-nos-pacos-do-concelho/",
+    "published": "2026-11-26T18:08Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "CDU prevê um “agravamento do passivo municipal” em 21 milhões de euros",
+    "url": "https://revelaarrabida.pt/2026/11/26/cdu-preve-um-agravamento-do-passivo-municipal-de-setubal-em-21-milhoes-de-euros/",
+    "published": "2026-11-26T18:03Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Vereadores do PS querem garantir concretização das medidas previstas no orçamento municipal",
     "url": "https://osetubalense.com/local/setubal/vereadores-do-ps-querem-garantir-concretizacao-das-medidas-previstas-no-orcamento-municipal/",
@@ -489,7 +522,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
+    "read_at": "2026-11-27T07:29:25Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -500,7 +533,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
+    "read_at": "2026-11-27T07:29:25Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -511,7 +544,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
+    "read_at": "2026-11-27T07:29:25Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -522,7 +555,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -533,7 +566,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -544,7 +577,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
+    "read_at": "2026-11-27T07:29:25Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -555,18 +588,7 @@
     "source": "O Setubalense",
     "source_site": "https://osetubalense.com/",
     "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Campanha solidária “Ardina Por Um Dia” arranca dia 11 no Montijo para apoiar os bombeiros",
-    "url": "https://osetubalense.com/ultimas/campanha-solidaria-ardina-por-um-dia-arranca-dia-11-no-montijo-para-apoiar-os-bombeiros/",
-    "published": "2026-11-26T13:13Z",
-    "source": "O Setubalense",
-    "source_site": "https://osetubalense.com/",
-    "feed": "https://osetubalense.com/feed/",
-    "read_at": "2026-11-26T18:30:57Z",
+    "read_at": "2026-11-27T07:29:25Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -577,7 +599,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -588,7 +610,51 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Junta de São Sebastião é parceira oficial do projeto “Heróis da Fruta”",
+    "url": "https://revelaarrabida.pt/2026/11/26/junta-de-sao-sebastiao-e-parceira-oficial-do-projeto-herois-da-fruta/",
+    "published": "2026-11-26T10:15Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Trabalho em rede e internacionalização museológica abriu debate em Sesimbra",
+    "url": "https://revelaarrabida.pt/2026/11/26/trabalho-em-rede-e-internacionalizacao-museologica-abriu-debate-em-sesimbra/",
+    "published": "2026-11-26T09:36Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Setúbal recebe magia do Natal com luzes, mercado e atividades festivas",
+    "url": "https://revelaarrabida.pt/2026/11/26/setubal-recebe-magia-do-natal-com-luzes-mercado-e-atividades-festivas/",
+    "published": "2026-11-26T08:59Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Homem é detido em Setúbal após perseguir ex-companheira. Ameaçou-a com arma de fogo",
+    "url": "https://revelaarrabida.pt/2026/11/26/homem-e-detido-em-setubal-apos-perseguir-ex-e-ameaca-la-com-arma-de-fogo/",
+    "published": "2026-11-26T08:26Z",
+    "source": "Revela Arrábida",
+    "source_site": "https://revelaarrabida.pt/",
+    "feed": "https://revelaarrabida.pt/feed/",
+    "read_at": "2026-11-27T07:29:29Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -599,7 +665,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -610,7 +676,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -621,7 +687,7 @@
     "source": "Semmais (S+)",
     "source_site": "https://semmais.pt/",
     "feed": "https://semmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:02Z",
+    "read_at": "2026-11-27T07:29:31Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -632,7 +698,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -643,7 +709,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": false,
     "date": "2026-11-18"
    },
@@ -654,7 +720,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": true,
     "date": "2026-11-16"
    },
@@ -665,7 +731,7 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": false,
     "date": "2026-11-13"
    },
@@ -676,9 +742,53 @@
     "source": "Setúbal Mais",
     "source_site": "https://setubalmais.pt/",
     "feed": "https://setubalmais.pt/feed/",
-    "read_at": "2026-11-26T18:31:13Z",
+    "read_at": "2026-11-27T07:29:41Z",
     "mentions_place": true,
     "date": "2026-11-11"
+   },
+   {
+    "title": "Nuno Maia da AISET falou sobre a Península de Setúbal e o seu futuro",
+    "url": "https://radioazul.pt/nuno-maia-da-aiset-falou-sobre-a-peninsula-de-setubal-e-o-seu-futuro/",
+    "published": "2026-07-15T23:21Z",
+    "source": "Rádio Azul",
+    "source_site": "https://radioazul.pt/",
+    "feed": "https://radioazul.pt/feed/",
+    "read_at": "2026-11-27T07:29:27Z",
+    "mentions_place": true,
+    "date": "2026-07-15"
+   },
+   {
+    "title": "Pedro Dominguinhos afirma que fundos europeus são importantes para desenvolvimento da região de Setúbal",
+    "url": "https://radioazul.pt/pedro-dominguinhos-afirma-que-fundos-europeus-sao-importantes-para-desenvolvimento-da-regiao-de-setubal/",
+    "published": "2026-07-15T22:26Z",
+    "source": "Rádio Azul",
+    "source_site": "https://radioazul.pt/",
+    "feed": "https://radioazul.pt/feed/",
+    "read_at": "2026-11-27T07:29:27Z",
+    "mentions_place": true,
+    "date": "2026-07-15"
+   },
+   {
+    "title": "Vitor Caldeirinha da administração dos Portos esteve em entrevista",
+    "url": "https://radioazul.pt/vitor-caldeirinha-da-administracao-dos-portos-esteve-em-entrevista/",
+    "published": "2026-06-30T14:13Z",
+    "source": "Rádio Azul",
+    "source_site": "https://radioazul.pt/",
+    "feed": "https://radioazul.pt/feed/",
+    "read_at": "2026-11-27T07:29:27Z",
+    "mentions_place": false,
+    "date": "2026-06-30"
+   },
+   {
+    "title": "Paulo Ribeiro da administração interna foi o 1º convidado de “Momentos”",
+    "url": "https://radioazul.pt/paulo-ribeiro-da-administracao-interna-foi-o-1o-convidado-de-momentos/",
+    "published": "2026-06-18T13:25Z",
+    "source": "Rádio Azul",
+    "source_site": "https://radioazul.pt/",
+    "feed": "https://radioazul.pt/feed/",
+    "read_at": "2026-11-27T07:29:27Z",
+    "mentions_place": false,
+    "date": "2026-06-18"
    },
    {
     "title": "Orçamento Municipal 2027 destina-se maioritariamente a investimento público",
@@ -687,7 +797,7 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
+    "read_at": "2026-11-27T07:29:38Z",
     "mentions_place": false,
     "date": null
    },
@@ -698,52 +808,8 @@
     "source": "Setúbal Informação",
     "source_site": "https://setubalinformacao.sapo.pt/",
     "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
+    "read_at": "2026-11-27T07:29:38Z",
     "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "ESE/IPS promove Aula Aberta subordinada ao tema “Fadiga e Recuperação no Futebol”",
-    "url": "https://setubalinformacao.sapo.pt/noticias/ese-ips-promove-aula-aberta-subordinada-ao-tema-fadiga-e-recuperacao-no-futebol",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
-    "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "O Pai Natal chega à cidade em desfile pela Baixa de Setúbal",
-    "url": "https://setubalinformacao.sapo.pt/noticias/o-pai-natal-chega-a-cidade-em-desfile-pela-baixa-de-setubal",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
-    "mentions_place": true,
-    "date": null
-   },
-   {
-    "title": "Inclusão no Estádio do Bonfim com Ténis de mesa adaptado",
-    "url": "https://setubalinformacao.sapo.pt/noticias/inclusao-no-estadio-do-bonfim-com-tenis-de-mesa-adaptado",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
-    "mentions_place": false,
-    "date": null
-   },
-   {
-    "title": "Quinteto de Sopros da Força Aérea em concerto encerra no próximo sábado",
-    "url": "https://setubalinformacao.sapo.pt/noticias/quinteto-de-sopros-da-forca-aerea-em-concerto-encerra-no-proximo-sabado",
-    "published": null,
-    "source": "Setúbal Informação",
-    "source_site": "https://setubalinformacao.sapo.pt/",
-    "feed": "https://setubalinformacao.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:31:09Z",
-    "mentions_place": false,
     "date": null
    }
   ]
